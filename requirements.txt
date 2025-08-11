@@ -1,0 +1,13 @@
+pandas 
+pypdf 
+langchain 
+faiss-cpu 
+chromadb 
+openai 
+fastapi 
+uvicorn 
+python-dotenv 
+ragas 
+datasets 
+rank_bm25
+
